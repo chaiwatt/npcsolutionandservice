@@ -61,7 +61,7 @@
                                    <ul class="topbar-contact">
                                        <li>
                                            <i class="flaticon-email"></i>
-                                           <a href="mailto:contact@npcsolution.com">contact@npcsolution.com</a>
+                                           <a href="mailto:contact@npcsolutionandservice.com">contact@npcsolutionandservice.com</a>
                                        </li>
                                        <li>
                                            <i class="flaticon-call"></i>
@@ -183,7 +183,7 @@
                                 <li>
                                     <i class="flaticon-email"></i>
                                     <div class="desc">
-                                        <a href="mailto:contact@npcsolution.com">contact@npcsolution.com</a>
+                                        <a href="mailto:contact@npcsolutionandservice.com">contact@npcsolutionandservice.com</a>
                                     </div>
                                 </li>
                                 <li>
@@ -224,7 +224,7 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="copyright">
-                                <p>&copy; {{date("Y")}} สงวนลิขสิทธิ์ โดย <a href="https://npcsolution.com/">บริษัท เอ็นพีซีโซลูชั่นแอนด์เซอร์วิส จำกัด</a></p>
+                                <p>&copy; {{date("Y")}} สงวนลิขสิทธิ์ โดย <a href="https://npcsolutionandservice.com/">บริษัท เอ็นพีซีโซลูชั่นแอนด์เซอร์วิส จำกัด</a></p>
                             </div>
                         </div>
                     </div>

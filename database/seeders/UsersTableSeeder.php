@@ -19,7 +19,7 @@ class UsersTableSeeder extends Seeder
         DB::table('users')->insert([
             [
                 'name' => 'chaiwat',
-                'email' => 'contact@npcsolution.com',        
+                'email' => 'contact@npcsolutionandservice.com',        
                 'linetoken' => 'FzQOFQXI2UPTluBNPIHdlyq3qneOvO9GoYSRAGof6Do',
                 'type' => 1,
                 'password' => Hash::make('11111111')

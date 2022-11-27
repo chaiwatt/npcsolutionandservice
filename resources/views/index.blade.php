@@ -412,11 +412,11 @@
                                         </div>   
                                         {{-- @captcha --}}
                                     </div>
-                                    <div class="btn-part">
+                                    {{-- <div class="btn-part">
                                         <div class="form-group mb-0">
                                             <button class="readon learn-more submit" onclick="confirmsubmit(event);" type="submit">ส่งข้อมูล</button>
                                         </div>
-                                    </div> 
+                                    </div>  --}}
                                 </fieldset>
                             </form> 
                         </div>

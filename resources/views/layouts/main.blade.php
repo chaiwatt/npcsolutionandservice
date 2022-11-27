@@ -177,7 +177,7 @@
                                 <li>
                                     <i class="flaticon-call"></i>
                                     <div class="desc">
-                                       <a href="tel:053093254">053-093254, 088-2514838</a>
+                                       <a href="tel:053093254">053-093254, 065-4867617</a>
                                     </div>
                                 </li>
                                 <li>

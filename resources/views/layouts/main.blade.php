@@ -172,7 +172,7 @@
                             </ul>
                         </div>
                         <div class="col-lg-3 col-md-12 col-sm-12 md-mb-30">
-                            <h3 class="widget-title">ติดต่อ</h3>
+                            <h3 class="widget-title">ติดต่อเรา</h3>
                             <ul class="address-widget">
                                 <li>
                                     <i class="flaticon-call"></i>
